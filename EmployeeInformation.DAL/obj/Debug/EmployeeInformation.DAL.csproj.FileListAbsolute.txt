@@ -1,0 +1,9 @@
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformation.DAL.dll
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformation.DAL.pdb
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformationSystem.DAO.dll
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformationSystem.DAO.pdb
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\obj\Debug\EmployeeInformation.DAL.csprojResolveAssemblyReference.cache
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\obj\Debug\EmployeeInformation.DAL.dll
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\obj\Debug\EmployeeInformation.DAL.pdb
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformationSystem.BLL.dll
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformation.DAL\bin\Debug\EmployeeInformationSystem.BLL.pdb

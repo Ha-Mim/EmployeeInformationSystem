@@ -1,0 +1,6 @@
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformationSystem\bin\EmployeeInformationSystem.dll.config
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformationSystem\bin\EmployeeInformationSystem.dll
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformationSystem\bin\EmployeeInformationSystem.pdb
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformationSystem\obj\Debug\EmployeeInformationSystem.csprojResolveAssemblyReference.cache
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformationSystem\obj\Debug\EmployeeInformationSystem.dll
+D:\asp.net\Employee Project\EmployeeInformationSystem\EmployeeInformationSystem\obj\Debug\EmployeeInformationSystem.pdb
